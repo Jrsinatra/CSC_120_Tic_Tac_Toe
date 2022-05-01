@@ -3,12 +3,6 @@ import stage1
 # Import check win function
 import stage3
 
-# Introduction
-print()
-print("Welcome to Tic-Tac-Toe!!!")
-print()
-print()
-
 # Function to check for valid mark
 def check_mark(row, col):
     # Check to make sure that the row and column entered by user are 0-2
